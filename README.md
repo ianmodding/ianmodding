@@ -70,9 +70,6 @@ Desenvolvimento de ideias próprias e evolução constante da marca Ian Modding.
 
 ## Projetos em destaque
 
-**ARROZEIRA BORDER**  
-Mapa para Farming Simulator 25 inspirado na produção de arroz e no ambiente arrozeiro.
-
 **3D ASSETS**  
 Estruturas e modelos personalizados desenvolvidos para o Farming Simulator 25.
 
