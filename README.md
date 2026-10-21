@@ -1,129 +1,112 @@
-```md
-<div align="center">
+ <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0B0B0B&height=230&section=header&text=IAN%20MODDING&fontSize=58&fontColor=B8F900&fontAlignY=42&desc=3D%20CREATION%20%20%E2%80%A2%20%20FARMING%20SIMULATOR%2025%20%20%E2%80%A2%20%20WEB&descSize=13&descColor=AAAAAA&descAlignY=62" />
-
-<br/>
-
-**Turning ideas into digital experiences.**
-
-3D modeling, custom content for Farming Simulator 25  
-and websites built with creativity and purpose.
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0B0B0B&height=200&section=header&text=IAN%20MODDING&fontSize=55&fontColor=B8F900&fontAlignY=40&desc=3D%20CREATION%20%20/%20%20FS25%20%20/%20%20WEB%20DEVELOPMENT&descSize=13&descColor=AAAAAA&descAlignY=60" />
 
 <br/>
 
-<a href="https://ianmodding.vercel.app/">
-  <img src="https://img.shields.io/badge/EXPLORE%20MY%20PORTFOLIO-B8F900?style=for-the-badge&labelColor=B8F900&color=B8F900" />
-</a>
+# Criatividade que ganha forma.
 
-<br/><br/>
+Desenvolvimento 3D, mods para Farming Simulator 25 e criação de sites.
 
-<img src="https://img.shields.io/badge/BASED%20IN-BRAZIL-171717?style=flat-square&labelColor=171717&color=171717" />
-<img src="https://img.shields.io/badge/FOCUS-3D%20%26%20WEB-171717?style=flat-square&labelColor=171717&color=171717" />
+<a href="https://ianmodding.vercel.app/"><img src="https://img.shields.io/badge/MEU%20PORTFÓLIO-B8F900?style=for-the-badge&logo=vercel&logoColor=0B0B0B" /></a>
+<a href="https://ianmodding.site"><img src="https://img.shields.io/badge/WEBSITE-171717?style=for-the-badge&logo=googlechrome&logoColor=B8F900" /></a>
 
 </div>
 
 ---
 
-### ABOUT
+## Sobre mim
 
-I'm Ian, the creator behind **Ian Modding**.
+Sou Ian, criador por trás da **Ian Modding**.
 
-My work brings together 3D creation, game modding and web development. I create custom structures for Farming Simulator 25 and develop websites, always looking for ways to improve my projects and turn ideas into something real.
+Trabalho com modelagem 3D de estruturas para o Farming Simulator 25 e desenvolvimento de sites. Gosto de transformar ideias em projetos reais, combinando criatividade, tecnologia e atenção aos detalhes.
 
-I believe good work comes from creativity, consistency and attention to detail.
+Meu objetivo é continuar evoluindo, criando projetos cada vez melhores e construindo minha identidade no mundo 3D e digital.
 
-<br/>
-
-### WHAT I DO
+## O que eu faço
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-**01 / 3D CREATION**
+### <img src="https://img.shields.io/badge/01-B8F900?style=flat-square&labelColor=0B0B0B" />
 
-Creating 3D structures and assets for Farming Simulator 25, focusing on modeling, materials, textures and in-game integration.
+**Modelagem 3D**
+
+Criação de estruturas e assets personalizados, com foco em qualidade visual, texturas e integração no jogo.
 
 </td>
 <td width="50%" valign="top">
 
-**02 / WEB DEVELOPMENT**
+### <img src="https://img.shields.io/badge/02-B8F900?style=flat-square&labelColor=0B0B0B" />
 
-Building websites and digital experiences with a focus on clean design, functionality and visual identity.
+**Farming Simulator 25**
+
+Desenvolvimento de mods e projetos personalizados para a comunidade do Farming Simulator.
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-**03 / FS25 MODDING**
+### <img src="https://img.shields.io/badge/03-B8F900?style=flat-square&labelColor=0B0B0B" />
 
-Developing custom content and projects that contribute to the Farming Simulator community.
+**Desenvolvimento Web**
+
+Criação de sites e experiências digitais com foco em design, funcionalidade e identidade visual.
 
 </td>
 <td width="50%" valign="top">
 
-**04 / PERSONAL PROJECTS**
+### <img src="https://img.shields.io/badge/04-B8F900?style=flat-square&labelColor=0B0B0B" />
 
-Exploring new ideas, developing my skills and building the Ian Modding brand.
+**Projetos autorais**
+
+Desenvolvimento de ideias próprias e evolução constante da marca Ian Modding.
 
 </td>
 </tr>
 </table>
 
-<br/>
-
-### SELECTED WORK
+## Projetos em destaque
 
 **ARROZEIRA BORDER**  
-A Farming Simulator 25 map project inspired by rice cultivation and agricultural environments.
+Mapa para Farming Simulator 25 inspirado na produção de arroz e no ambiente arrozeiro.
 
 **3D ASSETS**  
-Custom structures and assets created for Farming Simulator 25.
+Estruturas e modelos personalizados desenvolvidos para o Farming Simulator 25.
 
 **WEB PROJECTS**  
-Websites and digital experiences developed for creative projects and online brands.
+Sites e projetos digitais desenvolvidos com foco em apresentação visual e experiência do usuário.
 
-<br/>
+## Ferramentas
 
-### TOOLS I WORK WITH
-
-<div align="left">
-
+<div align="center">
 <img src="https://skillicons.dev/icons?i=blender,html,css,js,ts,nodejs,git,github&theme=dark" />
-
 </div>
 
-<sub>Blender · GIANTS Editor · PBR Texturing · HTML · CSS · JavaScript · TypeScript</sub>
+<div align="center">
 
-<br/>
+<sub>BLENDER · GIANTS EDITOR · PBR · HTML · CSS · JAVASCRIPT · TYPESCRIPT</sub>
+
+</div>
 
 ---
 
 <div align="center">
 
-### LET'S BUILD SOMETHING GREAT.
+### VAMOS CRIAR ALGO INCRÍVEL.
 
-Explore my work and discover what I'm creating.
+Conheça meu trabalho e acompanhe meus projetos.
 
 <br/>
 
-<a href="https://ianmodding.vercel.app/">
-  <img src="https://img.shields.io/badge/VISIT%20MY%20PORTFOLIO-B8F900?style=for-the-badge&logo=googlechrome&logoColor=0B0B0B" />
-</a>
+<a href="https://ianmodding.vercel.app/"><img src="https://img.shields.io/badge/EXPLORAR%20PORTFÓLIO-B8F900?style=for-the-badge&logo=vercel&logoColor=0B0B0B" /></a>
 
 <br/><br/>
 
-<a href="https://github.com/ianmodding">
-  <img src="https://img.shields.io/badge/GITHUB-0B0B0B?style=flat-square&logo=github&logoColor=B8F900" />
-</a>
+<sub>IAN MODDING © 2026</sub>
 
-<br/><br/>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0B0B0B&height=65&section=footer" />
-
-<sub>IAN MODDING © 2026 · MADE WITH CREATIVITY.</sub>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0B0B0B&height=100&section=footer" />
 
 </div>
-```
